@@ -1,2 +1,2 @@
-email :
-gitID :
+email :pcy7805@gmail.com
+gitID :Chanyeong
